@@ -1,4 +1,4 @@
- ### Dynamic Profile Endpoint
+# Dynamic Profile Endpoint
 
 This project is part of the **Backend Wizards Internship (Stage 0)** task.  
 It’s a simple RESTful API endpoint that returns my profile information along with a **random cat fact** fetched from the external [Cat Facts API](https://catfact.ninja/fact).
@@ -32,4 +32,5 @@ Follow these easy steps:
 ### Clone the Repository
 ```bash
 git clone https://github.com/sochimahenri/HNG-Backend-stage-0.git
+
 
