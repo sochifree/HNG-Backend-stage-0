@@ -23,8 +23,6 @@ The goal is to create a dynamic `/me` endpoint that:
 - **Nodemon** — for development hot reload  
 - **Jest & Supertest** — for automated testing  
 
-```bash
-git clone https://github.com/sochimahenri/HNG-Backend-stage-0.git
 
 
 
